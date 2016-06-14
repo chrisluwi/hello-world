@@ -1,0 +1,28 @@
+div.container-fluid {
+	background-color: brown;
+
+}
+div.container-fluid a.navbar-brand {
+	color: white;
+}
+#food {
+	background-color: purple;
+
+}
+#food li a {
+	color: white;
+}
+#bs-example-navbar-collapse-1 #food li {
+	border: 1px solid black !important;
+}
+
+#our-menu {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+#menu-text-color {
+	padding: 10px;
+	background-color: brown;
+	color: white;
+}
